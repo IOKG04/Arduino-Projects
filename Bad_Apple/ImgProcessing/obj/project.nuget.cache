@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/aTUpTglNK9kaV/2/31sT7+1w6LPVrblKJWBugUNW5aezi0zAgq6kZMWITztaEZhpl9oDB41xDjqHwV/bWIVg==",
+  "success": true,
+  "projectFilePath": "/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/ImgProcessing.csproj",
+  "expectedPackageFiles": [
+    "/home/io/.nuget/packages/sixlabors.imagesharp/3.0.1/sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "/home/io/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

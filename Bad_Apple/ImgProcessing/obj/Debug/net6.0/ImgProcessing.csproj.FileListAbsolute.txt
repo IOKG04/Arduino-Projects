@@ -1,0 +1,17 @@
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/ImgProcessing
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/ImgProcessing.deps.json
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/ImgProcessing.runtimeconfig.json
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/ImgProcessing.dll
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/ref/ImgProcessing.dll
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/ImgProcessing.pdb
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/bin/Debug/net6.0/SixLabors.ImageSharp.dll
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.csproj.AssemblyReference.cache
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.AssemblyInfoInputs.cache
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.AssemblyInfo.cs
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.csproj.CoreCompileInputs.cache
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.csproj.CopyComplete
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.dll
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ref/ImgProcessing.dll
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.pdb
+/home/io/Arduino-Projects/Bad_Apple/ImgProcessing/obj/Debug/net6.0/ImgProcessing.genruntimeconfig.cache

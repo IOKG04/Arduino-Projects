@@ -8,6 +8,7 @@ size_t *apixel;
 uint32_t *frame;
 
 unsigned char show[8][12], calc[8][12], hist[16][8][12], histc;
+unsigned short stepCount;
 
 void RandomPos(){
   unsigned long seed;
@@ -90,6 +91,7 @@ void setup(){
   frame = (uint32_t *)malloc(sizeof(uint32_t) * 3);
 
   RandomPos();
+  stepCount = 0;
 }
 
 void loop(){
@@ -131,10 +133,13 @@ void loop(){
   }
   matrix.loadFrame(frame);
 
+  ++stepCount;
+
   delayMicroseconds(100000 - (micros() - mcStart));
 
-  if(InHist()){
+  if(stepCount > 256 || InHist()){
     RandomPos();
+    stepCount = 0;
     CurtainClose();
     delayMicroseconds(1000000 - (micros() - mcStart));
   }
